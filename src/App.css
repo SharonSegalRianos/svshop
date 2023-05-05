@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.cartBtn,.homeBtn{
+  vertical-align: middle;
+  padding-right: 10px;
+  max-width: 20px;
+  max-height: 20px;
+}
+.header{
+  display: flex;
+  justify-content: space-around;
+  width:600px;
+  align-items: center;
+}
+.mainTitle{
+  margin:0px;
+  padding:0px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.cart,.home{
+  width: 600px;
+}
+
+.buyBtn,.backToStore{
+  background-color: blue;
+  padding: 10px 60px 10px 60px;
+  border: none;
+  border-radius: 100px;
+  color:white;
+  margin-right: 10px;
+}
+
+.hBtn,.cBtn{
+  border: none;
+  border-radius: 5px;
+  background-color: yellow;
+  padding: 0px 20px 0px 20px;
+  height: 50px;
+}
+.total{
+  font-size: 30px;
+  font-family: montserrat;
+  font-weight: bold;
+}
+
+.logo{
+  width: 350px;
+}
+
+.toalDiv{
+  text-align: center;
+}

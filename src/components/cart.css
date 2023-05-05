@@ -1,0 +1,31 @@
+.cartProduct{ 
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding:10px 10px 10px 10px;
+    margin: 20px 0px 20px 0px;
+    text-align: center;
+}
+
+.cartTitle,.cartPrice{
+    padding: 10px 20px 0px 20px;
+    margin:10px 0px 10px 0px;
+    font-family: montserrat;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+.delete{
+    padding: 8px 15px 8px 15px;
+    margin:10px 0px 10px 0px;
+    background-color: blue;
+    color: white;
+    font-family: montserrat;
+    border: none;
+    border-radius: 100%;
+    font-weight: 500;
+    font-size: 20px;   
+}
